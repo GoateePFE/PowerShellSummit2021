@@ -12,9 +12,9 @@ Here are special Tanium links for attendees of the PowerShell & DevOps Summit 20
 
 [Free Trial](http://bit.ly/Try-Tanium-PSH) - Try Tanium for free for 14 days
 
-[Tanium Advanced Content Training](http://bit.ly/Tanium-Content-Training-PSH) - Training for customers on creating custom script content
+[Tanium Advanced Content Training](http://bit.ly/Tanium-Content-Training-PSH) - Training on creating custom script content for customers
 
-[Tanium Videos](http://bit.ly/Tanium-Videos-PSH) - Demos, training, customer stories, and now
+[Tanium Videos](http://bit.ly/Tanium-Videos-PSH) - Demos, training, customer stories, and more
 
 #
 For more information about Tanium contact us here:
@@ -26,3 +26,4 @@ Technology Strategist, Tanium
 Twitter: [@GoateePFE](https://twitter.com/GoateePFE) [@Tanium](https://twitter.com/Tanium)
 
 Email: [ashley.mcglone@tanium.com](mailto:ashley.mcglone@tanium.com)
+
