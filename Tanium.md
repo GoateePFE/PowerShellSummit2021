@@ -10,7 +10,9 @@ Here are special Tanium links for attendees of the PowerShell & DevOps Summit 20
 * Episode 8 - Tanium on MacOS
 * Episodes 9 & 10 - Tanium custom scripting with PowerShell, Python, bash, etc.
 
-[PowerShell Security Content](https://www.youtube.com/playlist?list=PL5QhX4gOcFFW4dGBYfQR8jq8pwSYeELqa) - Full video tutorial on the custom PowerShell Security content with Tanium
+[PowerShell Security Content](http://bit.ly/TaniumPS) - Full video tutorial on the custom PowerShell Security content with Tanium
+
+[Tanium REST API](http://bit.ly/Tanium-REST-API-PSH) - Two quick REST API demos, one with PowerShell, one with Python
 
 [Free Trial](http://bit.ly/Try-Tanium-PSH) - Try Tanium for free for 14 days
 
@@ -18,7 +20,7 @@ Here are special Tanium links for attendees of the PowerShell & DevOps Summit 20
 
 [Tanium Videos](http://bit.ly/Tanium-Videos-PSH) - Demos, training, customer stories, and more
 
-[FORTUNE's Best Workplaces](https://www.tanium.com/careers) - Tanium employees love the culture and their customers. We have won multiple awards over multiple years for our work environment.
+[FORTUNE's Best Workplaces](http://bit.ly/Tanium-BestWorkplaces-PSH) - Tanium employees love the culture and their customers. We have won multiple awards over multiple years for our work environment.
 
 #
 For more information about Tanium contact us here:
