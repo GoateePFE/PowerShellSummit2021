@@ -14,6 +14,14 @@ You need to give the help desk access to special tooling without giving them spe
 
 #
 
+Welcome to PshSummit 2021!
+
+This repo contains slides, scripts, and setup documentation for the solution demo in the session.
+Also find a handy doc of links for more information on Tanium, a sponsor of this year's event.
+Read below for the solution setup install and customization for your own environment.
+
+#
+
 ## Problem
 
 * People put passwords in scripts (along with other secrets, API keys, etc.)
