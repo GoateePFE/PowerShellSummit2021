@@ -5,6 +5,8 @@
 
 Here are special Tanium links for attendees of the PowerShell & DevOps Summit 2021. Find more information for tinkerers, creators, scripters, and automators on the Tanium platform.
 
+[Tanium Sponsor Video](https://youtu.be/VbJLOFH6VLI) - This video will introduce you to the many capabilities and benefits of using PowerShell with the Tanium platform.
+
 [Go-Tanium Show](https://bit.ly/Go-Tanium-PSH) - Check out these web shows featuring topics for Tanium automators:
 * Episode 7 - Tanium on Linux - Including Python script demo
 * Episode 8 - Tanium on MacOS
