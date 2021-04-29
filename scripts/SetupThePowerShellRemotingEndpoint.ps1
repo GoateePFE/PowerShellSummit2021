@@ -3,7 +3,7 @@ break
 break keyword at top in case you accidentally press F5 instead of F8
 
 PowerShell Just Enough Administration (JEA) training and samples here:
-https://github.com/GoateePFE/PowerShell2019
+https://github.com/GoateePFE/PowerShellSummit2019
 
 #>
 
